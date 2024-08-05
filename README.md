@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Project for FUMCRIS Fundraising using JS, HTML and CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
