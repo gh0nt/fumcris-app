@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fumcris-app/static/css/main.3d651a62.css",
+    "main.js": "/fumcris-app/static/js/main.5fe831a0.js",
+    "index.html": "/fumcris-app/index.html",
+    "main.3d651a62.css.map": "/fumcris-app/static/css/main.3d651a62.css.map",
+    "main.5fe831a0.js.map": "/fumcris-app/static/js/main.5fe831a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d651a62.css",
+    "static/js/main.5fe831a0.js"
+  ]
+}
