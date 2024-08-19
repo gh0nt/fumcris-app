@@ -1,4 +1,3 @@
-import './App.css';
 import Navbar from './Pages/Navbar';
 import Home from './Pages/Homescreen';
 import Footer from "./Pages/Footer";
