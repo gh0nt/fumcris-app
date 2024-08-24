@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fumcris-app/static/css/main.3d651a62.css",
-    "main.js": "/fumcris-app/static/js/main.9a4fdd00.js",
+    "main.js": "/fumcris-app/static/js/main.8e0e023d.js",
     "index.html": "/fumcris-app/index.html",
     "main.3d651a62.css.map": "/fumcris-app/static/css/main.3d651a62.css.map",
-    "main.9a4fdd00.js.map": "/fumcris-app/static/js/main.9a4fdd00.js.map"
+    "main.8e0e023d.js.map": "/fumcris-app/static/js/main.8e0e023d.js.map"
   },
   "entrypoints": [
     "static/css/main.3d651a62.css",
-    "static/js/main.9a4fdd00.js"
+    "static/js/main.8e0e023d.js"
   ]
 }
